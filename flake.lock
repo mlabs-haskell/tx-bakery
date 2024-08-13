@@ -22667,10 +22667,6 @@
     },
     "root": {
       "inputs": {
-        "ctl": [
-          "lbf",
-          "ctl"
-        ],
         "flake-lang": "flake-lang",
         "flake-parts": [
           "lbf",

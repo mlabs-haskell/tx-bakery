@@ -16,9 +16,6 @@
     pre-commit-hooks.follows = "lbf/pre-commit-hooks";
     hci-effects.follows = "lbf/hci-effects";
 
-    # Cardano transaction library (transaction building)
-    ctl.follows = "lbf/ctl";
-
     # Plutarch (Plutus validation scripts)
     plutarch.follows = "lbf/plutarch";
 
@@ -42,8 +39,6 @@
         ./tx-bakery-plutip/build.nix
         ./tx-bakery-ogmios/build.nix
         ./extras/tx-bakery-testsuite/api/build.nix
-        ./tx-indexer/build.nix
-        ./ledger-sim/build.nix
 
         # Extras
         ./extras/tx-bakery-testsuite/validation/build.nix
