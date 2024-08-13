@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["n2c_config","n2n_config"]};

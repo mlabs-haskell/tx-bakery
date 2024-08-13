@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["aux","config","database","error","filter","handler","progress_tracker"],"struct":["TxIndexer"]};
